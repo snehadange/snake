@@ -4,6 +4,10 @@ import { StyleSheet, View } from "react-native";
 class Head extends Component {
     constructor(props){
         super(props);
+
+
+
+        
     }
 
     render() {
